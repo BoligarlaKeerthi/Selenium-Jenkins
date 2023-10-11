@@ -42,7 +42,7 @@ public class Seleniumtest1 {
 		//a.dismiss();  // click on NO, cancel button on the alert box
 		
 	driver.findElement(By.xpath("//div[@class=\"table\"]/descendant::input[1]")).clear();
-		driver.findElement(By.xpath("//div[@class=\"table\"]/descendant::input[1]")).sendKeys("sonal");	
+		driver.findElement(By.xpath("//div[@class=\"table\"]/descendant::input[1]")).sendKeys("keerthi");	
 	
 
 	}
